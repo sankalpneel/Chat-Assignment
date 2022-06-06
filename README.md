@@ -31,7 +31,10 @@ Steps to Run on your Local System
 If Error
 
     //if some error ,and depedencies does not install then try below line
-        npm install --save --legacy-peer-deps
+         
+   
+
+     npm install --save --legacy-peer-deps
   1. Run the Server
 
 
@@ -60,7 +63,10 @@ If Error
 If Error
 
     //if some error ,and depedencies does not install then try below line
-        npm install --save --legacy-peer-deps
+         
+   
+
+     npm install --save --legacy-peer-deps
   1. Run the Client 
 
 
