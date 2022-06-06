@@ -28,8 +28,8 @@ Steps to Run on your Local System
      
 If Error
 
-     ```//if some error ,and depedencies does not install then try below line
-     npm install --save --legacy-peer-deps```
+     //if some error ,and depedencies does not install then try below line
+     npm install --save --legacy-peer-deps
      
      
      
@@ -54,10 +54,8 @@ If Error
       ``cd client``
 
  1. Install the depedencies
- 
-   
-
     `` npm install``
+    
 If Error
 
     ```//if some error ,and depedencies does not install then try below line
