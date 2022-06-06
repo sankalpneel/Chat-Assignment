@@ -24,17 +24,15 @@ Steps to Run on your Local System
       cd server
 
  1. Install the depedencies
- 
-   
-
-     npm install
+```npm install```
+     
 If Error
 
-    //if some error ,and depedencies does not install then try below line
-         
-   
-
-     npm install --save --legacy-peer-deps
+     ```//if some error ,and depedencies does not install then try below line
+     npm install --save --legacy-peer-deps```
+     
+     
+     
   1. Run the Server
 
 
