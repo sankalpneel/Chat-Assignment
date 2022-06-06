@@ -58,13 +58,13 @@ If Error
     
 If Error
 
-    ```//if some error ,and depedencies does not install then try below line
-            npm install --save --legacy-peer-deps```
+    //if some error ,and depedencies does not install then try below line
+            npm install --save --legacy-peer-deps
 	    
   1. Run the Client 
 
 
-    ```
+    
     npm start
 	//wait for client to start
 ```
