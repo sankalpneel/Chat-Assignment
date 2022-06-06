@@ -21,7 +21,7 @@ Steps to Run on your Local System
  
    
 
-      cd server
+      ``cd server``
 
  1. Install the depedencies
 ```npm install```
